@@ -1,1 +1,3 @@
 # Prodigy_CS_02
+Introducing a simple yet powerful Image Encryption Tool:
+This tool allows users to encrypt or decrypt images of their choice by simply providing the image's path. Users are empowered with the flexibility to choose between two encryption methods: swapping pixels or mathematical operation manipulation.With security and user experience in mind, this project aims to simplify the encryption process while ensuring robust protection for sensitive image data. Whether it's safeguarding personal photos or confidential documents, this tool provides a seamless solution for users to maintain privacy and security.
